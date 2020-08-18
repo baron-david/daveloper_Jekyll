@@ -1,3 +1,8 @@
+---
+layout: default
+title: Slate Theme
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dchin0/Jekyll_daveops/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
