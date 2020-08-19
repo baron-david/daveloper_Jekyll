@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Hello World
 
 ![Image of swish](/assets/images/IMG_1262.JPG)
