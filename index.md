@@ -9,7 +9,7 @@ layout: default
 ![Image of swish](/assets/images/IMG_1262.JPG)
 -->
 
-![Image of swish](/assets/images/legos_hawaii_family.jpg)
+![Image of david](/assets/images/david_sloth.jpg)
 
 
 You can see the default index page here: [Original](original)
