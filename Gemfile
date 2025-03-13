@@ -4,4 +4,4 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'github-pages', '~> 228'
+gem "github-pages", group: :jekyll_plugins
