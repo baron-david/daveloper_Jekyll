@@ -6,6 +6,7 @@ layout: default
 
 ![Image of david](/assets/images/david_sloth.jpg)
 
+### Experience
 - Provide technical support for cloud-based applications and infrastructure, ensuring high availability and reliability.
 - Deploy, configure, and manage cloud services in AWS, Azure, and Google Cloud Platform (GCP).
 - Automate cloud infrastructure tasks using Terraform, CloudFormation, and Ansible.
@@ -17,6 +18,7 @@ layout: default
 - Conduct incident response and root cause analysis to resolve cloud infrastructure issues.
 - Improve cloud architecture and system performance.
 
-Website uptime monitor:
+### Examples
+- Website uptime monitor:
 [StatusCake Report](https://status.daveloper.com/)
 
